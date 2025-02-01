@@ -1,0 +1,47 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 24 Dec 2024 21:58:13 at https://skrollex.romanmeleshin.art/theme-suzi/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://skrollex.romanmeleshin.art/theme-suzi/ -O1 "C:\Users\hemad\Downloads\Amul-kutty" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/apple-touch-icon.png (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/apple-touch-icon-57x57.png (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/apple-touch-icon-72x72.png (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/apple-touch-icon-76x76.png (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/apple-touch-icon-114x114.png (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/apple-touch-icon-120x120.png (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/apple-touch-icon-144x144.png (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/apple-touch-icon-152x152.png (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/blog.html (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/help.html (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/images/bg/stephane/3.jpg (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/blog-single-1.html (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/blog-single-2.html (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/blog-single-3.html (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/blog-single-4.html (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/lib/stringencoders-v3.10.3/javascript/base64.js (from https://skrollex.romanmeleshin.art/theme-suzi/)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/fonts/fontawesome-webfont.eot?v=4.3.0 (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/css/font-awesome.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/fonts/fontawesome-webfont.eot? (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/css/font-awesome.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/fonts/fontawesome-webfont.woff2?v=4.3.0 (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/css/font-awesome.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/fonts/fontawesome-webfont.woff?v=4.3.0 (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/css/font-awesome.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/fonts/fontawesome-webfont.ttf?v=4.3.0 (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/css/font-awesome.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/fonts/fontawesome-webfont.svg?v=4.3.0 (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/fontawesome/css/font-awesome.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/minicolors/jquery.minicolors.png (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/minicolors/jquery.minicolors.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/ajax-loader.gif (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/slick-theme.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/fonts/slick.eot (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/slick-theme.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/fonts/slick.eot? (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/slick-theme.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/fonts/slick.woff (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/slick-theme.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/fonts/slick.ttf (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/slick-theme.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/fonts/slick.svg (from https://skrollex.romanmeleshin.art/theme-suzi/bower_components/slick.js/slick/slick-theme.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/fonts/glyphicons-halflings-regular.eot (from https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/css/bootstrap-custom.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/fonts/glyphicons-halflings-regular.eot? (from https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/css/bootstrap-custom.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2 (from https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/css/bootstrap-custom.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/fonts/glyphicons-halflings-regular.woff (from https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/css/bootstrap-custom.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf (from https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/css/bootstrap-custom.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/fonts/glyphicons-halflings-regular.svg (from https://skrollex.romanmeleshin.art/theme-suzi/bootstrap/dist/css/bootstrap-custom.min.css)
+21:58:47	Error: 	"Forbidden" (403) at link https://skrollex.romanmeleshin.art/theme-suzi/lib/linecons/fonts/linecons.eot (from https://skrollex.romanmeleshin.art/theme-suzi/lib/linecons/style.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 34 seconds : 95 links scanned, 58 files written (6354596 bytes overall) [5553219 bytes received at 163329 bytes/sec], 1247854 bytes transferred using HTTP compression in 65 files, ratio 28%, 11.8 requests per connection
+(36 errors, 0 warnings, 0 messages)
